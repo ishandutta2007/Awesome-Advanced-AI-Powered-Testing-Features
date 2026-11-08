@@ -146,6 +146,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+- **[agent-qa](https://vostride.com)** ([GitHub](https://github.com/vostride/agent-qa))
+
+  **Open source, self-hosted QA agent** (FSL-1.1-ALv2) for natural-language web, Android and iOS testing through a CLI, dashboard or MCP. **memidex** keeps persistent facts and working procedures in reviewable files; self-improvement updates that knowledge from runs and feedback, while digests, steps and screenshots provide inspectable evidence.
+
+
+
 ### Additional Strong Open-Source Options
 
 
