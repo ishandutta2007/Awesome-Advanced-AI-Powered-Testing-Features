@@ -29,6 +29,7 @@
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🧩 Capabilities Matrix & Guide](#-capabilities-matrix--guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsor](#-support--sponsor)
 - [⚠️ Disclaimer](#️-disclaimer)
 - [📈 Star History](#-star-history)
 
@@ -181,6 +182,25 @@ Contributions, tool suggestions, and documentation refinements are warmly welcom
 3. 📝 Add your tool with factual descriptions, active GitHub links, and license information.
 4. 🚀 Push to the branch (`git push origin feature/add-new-tool`).
 5. 📬 Open a **Pull Request** and describe the addition.
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for visiting and exploring **Awesome Advanced AI-Powered Testing Features**! 🎉
+
+If you find this curated list helpful for your QA workflows, testing architecture, or engineering research, please consider supporting the project:
+
+- 🌟 **Star** the repository to show your appreciation and boost its visibility!
+- 🍴 **Fork** and contribute tools, updates, or benchmarks.
+- 📢 **Share** this list with your engineering team, SDETs, and developer communities.
+- ☕ **Buy me a coffee / Sponsor:** If you'd like to back ongoing maintenance and updates, you can support directly through the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
