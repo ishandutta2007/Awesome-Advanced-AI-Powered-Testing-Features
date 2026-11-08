@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Advanced-AI-Powered-Testing-Features/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Advanced-AI-Powered-Testing-Features?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Advanced-AI-Powered-Testing-Features/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Advanced-AI-Powered-Testing-Features?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Advanced-AI-Powered-Testing-Features/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Advanced-AI-Powered-Testing-Features?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Advanced-AI-Powered-Testing-Features/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,87 +62,87 @@ The following SaaS solutions offer enterprise-grade cloud test infrastructure, A
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the leading open-source repositories powering autonomous testing, visual regression with local models, and self-healing Playwright/Selenium frameworks. Sorted by GitHub stars in descending order:
+Explore the leading open-source repositories powering autonomous testing, visual regression with local models, and self-healing Playwright/Selenium frameworks. Sorted by GitHub_Stars in descending order:
 
-1. ### 🌟 [Midscene.js](https://github.com/web-infra-dev/midscene) [![GitHub stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=social&color=white)](https://github.com/web-infra-dev/midscene/stargazers)
+1. ### 🌟 [Midscene.js](https://github.com/web-infra-dev/midscene) [![GitHub_Stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=social&color=white)](https://github.com/web-infra-dev/midscene/stargazers)
    - **Repository:** `web-infra-dev/midscene`
    - **Focus:** *Multimodal AI-driven UI Automation & E2E Testing Framework*
    - **Highlights:** Utilizes multimodal vision models (GPT-4o, Claude, Qwen-VL, UI-TARS) to perceive the screen via screenshots instead of fragile CSS/XPath selectors. Offers `aiAct`, `aiAssert`, `aiWaitFor`, and `aiQuery`. Operates with Playwright, Puppeteer, or standalone YAML test scripts with visual reasoning logs.
    - **Tech Stack:** TypeScript, Node.js, Multimodal Vision Models
 
-2. ### 🌟 [LaVague](https://github.com/lavague-ai/LaVague) [![GitHub stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social&color=white)](https://github.com/lavague-ai/LaVague/stargazers)
+2. ### 🌟 [LaVague](https://github.com/lavague-ai/LaVague) [![GitHub_Stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social&color=white)](https://github.com/lavague-ai/LaVague/stargazers)
    - **Repository:** `lavague-ai/LaVague`
    - **Focus:** *Large Action Model (LAM) Framework for Autonomous Web Navigation & Testing*
    - **Highlights:** Open-source agent engine converting natural language instructions into concrete browser actions and Playwright/Selenium test code. Features world-model perception and automated agentic test generation.
    - **Tech Stack:** Python, Playwright, Selenium, Local/Cloud LLMs
 
-3. ### 🌟 [Selenium IDE (SIDE Runner)](https://github.com/SeleniumHQ/selenium-ide) [![GitHub stars](https://img.shields.io/github/stars/SeleniumHQ/selenium-ide?style=social&color=white)](https://github.com/SeleniumHQ/selenium-ide/stargazers)
+3. ### 🌟 [Selenium IDE (SIDE Runner)](https://github.com/SeleniumHQ/selenium-ide) [![GitHub_Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium-ide?style=social&color=white)](https://github.com/SeleniumHQ/selenium-ide/stargazers)
    - **Repository:** `SeleniumHQ/selenium-ide`
    - **Focus:** *Open-Source Record & Playback with Built-in Fallback Locator Healing*
    - **Highlights:** Official record and playback tool featuring multi-locator recording strategies. Automatically records an element's ID, CSS, XPath, and text coordinates, falling back dynamically during playback if the primary locator fails.
    - **Tech Stack:** JavaScript, WebExtensions, Selenium
 
-4. ### 🌟 [reg-suit](https://github.com/reg-viz/reg-suit) [![GitHub stars](https://img.shields.io/github/stars/reg-viz/reg-suit?style=social&color=white)](https://github.com/reg-viz/reg-suit/stargazers)
+4. ### 🌟 [reg-suit](https://github.com/reg-viz/reg-suit) [![GitHub_Stars](https://img.shields.io/github/stars/reg-viz/reg-suit?style=social&color=white)](https://github.com/reg-viz/reg-suit/stargazers)
    - **Repository:** `reg-viz/reg-suit`
    - **Focus:** *Visual Regression Testing CLI with CI/CD Snapshot Diffing*
    - **Highlights:** Automated visual diff tool comparing image snapshots on every Git commit. Integrates with AWS S3, Google Cloud Storage, and GitHub PR comments for continuous visual review without third-party SaaS subscriptions.
    - **Tech Stack:** TypeScript, Node.js, GitHub Actions
 
-5. ### 🌟 [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) [![GitHub stars](https://img.shields.io/github/stars/Visual-Regression-Tracker/Visual-Regression-Tracker?style=social&color=white)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker/stargazers)
+5. ### 🌟 [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) [![GitHub_Stars](https://img.shields.io/github/stars/Visual-Regression-Tracker/Visual-Regression-Tracker?style=social&color=white)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker/stargazers)
    - **Repository:** `Visual-Regression-Tracker/Visual-Regression-Tracker`
    - **Focus:** *Self-Hosted Visual Testing Platform & Image Comparison Backend*
    - **Highlights:** Open-source alternative to Applitools and Percy for visual regression testing. Provides unified REST API, baseline management, branch tracking, and client SDKs for Cypress, Playwright, Puppeteer, Selenium, and WebdriverIO.
    - **Tech Stack:** TypeScript, NestJS, React, PostgreSQL
 
-6. ### 🌟 [Appraise](https://github.com/AppraiseQA/appraise) [![GitHub stars](https://img.shields.io/github/stars/AppraiseQA/appraise?style=social&color=white)](https://github.com/AppraiseQA/appraise/stargazers)
+6. ### 🌟 [Appraise](https://github.com/AppraiseQA/appraise) [![GitHub_Stars](https://img.shields.io/github/stars/AppraiseQA/appraise?style=social&color=white)](https://github.com/AppraiseQA/appraise/stargazers)
    - **Repository:** `AppraiseQA/appraise`
    - **Focus:** *Markdown-Driven Visual Approval & Visual Regression Testing*
    - **Highlights:** Specification-by-example visual testing framework. Write markdown documentation that executes via headless browsers, capturing and validating screenshot states as living documentation.
    - **Tech Stack:** JavaScript, Puppeteer, Markdown
 
-7. ### 🌟 [Happo.io CLI](https://github.com/happo/happo.io) [![GitHub stars](https://img.shields.io/github/stars/happo/happo.io?style=social&color=white)](https://github.com/happo/happo.io/stargazers)
+7. ### 🌟 [Happo.io CLI](https://github.com/happo/happo.io) [![GitHub_Stars](https://img.shields.io/github/stars/happo/happo.io?style=social&color=white)](https://github.com/happo/happo.io/stargazers)
    - **Repository:** `happo/happo.io`
    - **Focus:** *Cross-Browser Screenshot Diffing for Component Libraries*
    - **Highlights:** Open-source test runner and diffing tooling for Storybook, React, and UI component libraries across responsive screen viewports.
    - **Tech Stack:** JavaScript, Storybook, Cypress
 
-8. ### 🌟 [noqa](https://github.com/noqa-ai/noqa) [![GitHub stars](https://img.shields.io/github/stars/noqa-ai/noqa?style=social&color=white)](https://github.com/noqa-ai/noqa/stargazers)
+8. ### 🌟 [noqa](https://github.com/noqa-ai/noqa) [![GitHub_Stars](https://img.shields.io/github/stars/noqa-ai/noqa?style=social&color=white)](https://github.com/noqa-ai/noqa/stargazers)
    - **Repository:** `noqa-ai/noqa`
    - **Focus:** *Vision-Based Mobile App & Game Testing Agent*
    - **Highlights:** Zero locators, zero code, and zero SDK requirements. Interacts with iOS, Android, Flutter, React Native, Unity, and Unreal game screens purely through visual grounding, screenshot inspection, and natural language prompts.
    - **Tech Stack:** Python, CLI, Multimodal Vision
 
-9. ### 🌟 [Healenium](https://github.com/healenium/healenium) [![GitHub stars](https://img.shields.io/github/stars/healenium/healenium?style=social&color=white)](https://github.com/healenium/healenium/stargazers)
+9. ### 🌟 [Healenium](https://github.com/healenium/healenium) [![GitHub_Stars](https://img.shields.io/github/stars/healenium/healenium?style=social&color=white)](https://github.com/healenium/healenium/stargazers)
    - **Repository:** `healenium/healenium`
    - **Focus:** *Machine-Learning Self-Healing Proxy for Selenium & Appium*
    - **Highlights:** Proxies automation requests and intercepts locator failure exceptions (`NoSuchElementException`). Uses ML algorithms and DOM mutation distance trees to heal broken selectors at runtime and persist fixes to PostgreSQL.
    - **Tech Stack:** Java, Docker, PostgreSQL, Selenium, Appium
 
-10. ### 🌟 [Syngrisi](https://github.com/syngrisi/syngrisi) [![GitHub stars](https://img.shields.io/github/stars/syngrisi/syngrisi?style=social&color=white)](https://github.com/syngrisi/syngrisi/stargazers)
+10. ### 🌟 [Syngrisi](https://github.com/syngrisi/syngrisi) [![GitHub_Stars](https://img.shields.io/github/stars/syngrisi/syngrisi?style=social&color=white)](https://github.com/syngrisi/syngrisi/stargazers)
     - **Repository:** `syngrisi/syngrisi`
     - **Focus:** *Self-Hosted Visual AI Testing Platform with Local Ollama Triage*
     - **Highlights:** 100% private, self-hosted visual testing with local vision models (Qwen-VL, Gemma via bundled Ollama). Features AI Match across resolutions, DOM root cause analysis, MCP server support, and automated triage classifications (`intended change`, `likely bug`, `noise`).
     - **Tech Stack:** Node.js, Express, MongoDB, React, Mantine, Ollama
 
-11. ### 🌟 [Healwright](https://github.com/amrsa1/healwright) [![GitHub stars](https://img.shields.io/github/stars/amrsa1/healwright?style=social&color=white)](https://github.com/amrsa1/healwright/stargazers)
+11. ### 🌟 [Healwright](https://github.com/amrsa1/healwright) [![GitHub_Stars](https://img.shields.io/github/stars/amrsa1/healwright?style=social&color=white)](https://github.com/amrsa1/healwright/stargazers)
     - **Repository:** `amrsa1/healwright`
     - **Focus:** *Playwright Self-Healing Selector Engine with FastMCP Server*
     - **Highlights:** Automatically detects broken locators during Playwright test runs. Computes similarity heuristic scores across IDs, classes, attributes, and text. Integrates directly into IDE coding agents via FastMCP server with headless verification.
     - **Tech Stack:** Python, Playwright, FastMCP
 
-12. ### 🌟 [Yewo](https://github.com/yewohq/yewo) [![GitHub stars](https://img.shields.io/github/stars/yewohq/yewo?style=social&color=white)](https://github.com/yewohq/yewo/stargazers)
+12. ### 🌟 [Yewo](https://github.com/yewohq/yewo) [![GitHub_Stars](https://img.shields.io/github/stars/yewohq/yewo?style=social&color=white)](https://github.com/yewohq/yewo/stargazers)
     - **Repository:** `yewohq/yewo`
     - **Focus:** *Autonomous AI E2E Mobile Testing Agent*
     - **Highlights:** Describe user journeys in plain English; Yewo interprets the mobile screen, plans actions, and drives Android and iOS devices without requiring test IDs or source instrumentation. Features automatic secret masking and audit logs.
     - **Tech Stack:** Python, Appium, LiteLLM
 
-13. ### 🌟 [playwright-self-healing-framework](https://github.com/ShantanuVr/playwright-self-healing-framework) [![GitHub stars](https://img.shields.io/github/stars/ShantanuVr/playwright-self-healing-framework?style=social&color=white)](https://github.com/ShantanuVr/playwright-self-healing-framework/stargazers)
+13. ### 🌟 [playwright-self-healing-framework](https://github.com/ShantanuVr/playwright-self-healing-framework) [![GitHub_Stars](https://img.shields.io/github/stars/ShantanuVr/playwright-self-healing-framework?style=social&color=white)](https://github.com/ShantanuVr/playwright-self-healing-framework/stargazers)
     - **Repository:** `ShantanuVr/playwright-self-healing-framework`
     - **Focus:** *Deterministic Zero-LLM Self-Healing Framework for Playwright*
     - **Highlights:** Generates semantic element fingerprints on first contact using 6 weighted sub-scores (text, anchor context, tags, attributes, classes, ID). Recovers broken locators deterministically without external LLM API costs.
     - **Tech Stack:** TypeScript, Playwright, Vitest
 
-14. ### 🌟 [CANVAS (canvas-heal)](https://github.com/mandavillivijay/CANVAS) [![GitHub stars](https://img.shields.io/github/stars/mandavillivijay/CANVAS?style=social&color=white)](https://github.com/mandavillivijay/CANVAS/stargazers)
+14. ### 🌟 [CANVAS (canvas-heal)](https://github.com/mandavillivijay/CANVAS) [![GitHub_Stars](https://img.shields.io/github/stars/mandavillivijay/CANVAS?style=social&color=white)](https://github.com/mandavillivijay/CANVAS/stargazers)
     - **Repository:** `mandavillivijay/CANVAS`
     - **Focus:** *Semantic Intent-Based Self-Healing for Pytest & Selenium/Playwright*
     - **Highlights:** Captures semantic descriptors (roles, intents, context) and resolves changed selectors via confidence-gated thresholds (auto-heals above 0.92; requires confirmation between 0.75 and 0.92).
