@@ -1,7 +1,5 @@
 # Awesome-Advanced-AI-Powered-Testing-Features
 
-# Awesome-Advanced-AI-Powered-Testing-Features
-
 **Top Advanced AI Powered Testing Features (Opensource) 🌟 Star if you like it! 🌟**
 
 
